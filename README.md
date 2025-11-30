@@ -266,26 +266,5 @@ const { documents, scores } = await response.json();
 - **Compliance**: GDPR, SOC2 Type II, HIPAA-ready
 - **Access Control**: Role-based permissions (RBAC)
 
-## 🤝 Contributing
-
-This is a proprietary project developed for Airtribe x Darwin AI collaboration. For questions or collaboration opportunities, please contact the project team.
-
-## 📄 License
-
-Proprietary - All Rights Reserved
-
-Copyright (c) 2025 Darwin AI Platform
-
-This project and its documentation are confidential and proprietary. Unauthorized copying, distribution, or use is strictly prohibited.
-
-## 🔗 Resources
-
-- [Full Documentation](/documentation)
-- [Darwin AI Official Docs](https://www.getdarwin.ai)
-- [Vercel AI SDK](https://sdk.vercel.ai)
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Airtribe Platform](https://www.airtribe.live)
-
----
 
 **Built for the Airtribe x Darwin AI Design Challenge**
